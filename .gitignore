@@ -1,5 +1,30 @@
+# Agent0 metadata
 .a0proj/
+
+# Node / Next.js / Vercel
 node_modules/
 .next/
 dist/
 out/
+.vercel/
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
