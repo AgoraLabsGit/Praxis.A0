@@ -1,0 +1,5 @@
+.a0proj/
+node_modules/
+.next/
+dist/
+out/
